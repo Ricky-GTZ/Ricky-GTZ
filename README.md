@@ -1,17 +1,12 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://raw.githubusercontent.com/Itakyo/Coursera-Homeworks/refs/heads/main/LinkedIn_Banner_Adjusted.png" width="800"  height= "300" alt="Daniel Leonardo Robelto Bayona - Data Analyst"/>
+  <img decoding="async" src="image" width="800"  height= "300" alt="Ricardo Gutierrez Valenzuela - Data Analyst"/>
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/daleroba/">
+  <a href="https://www.linkedin.com/in/ricardogutierrez-dataanalyst/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/@danielleonardorobeltobayon1266">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-  </a>
+ 
 </div>
 
 
@@ -23,25 +18,23 @@
 </h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I am a <strong>Data Analyst</strong> 
+  Welcome to my GitHub profile! I am a Data Analyst with a background in Data Science and a passion for transforming data into meaningful insights. Here, you’ll find my projects, skills, and how I apply data analytics to solve real-world problems—especially in the education and retail sectors.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 - 🌍 Based Colima, Mexico.
-- 💼 Currently working as a **Quality Analyst at Belcorp**, specializing in data analysis and process optimization.
-- 🎓 Pursuing an **MBA in Big Data & Business Intelligence** to deepen my expertise in advanced analytics.
-- 🌟 Passionate about **data visualization**, **machine learning**, and creating innovative solutions.
+- 🌟 Passionate about **data alalysis** **data visualization**, **machine learning**, and creating innovative solutions.
 
 ---
 
 ### 🛠️ Technical Skills
-- **Programming Languages:** Python, SQL, R, Java (Spring)
+- **Programming Languages:** Python, SQL
 - **Data Analysis:** Pandas, Sci-kit Learn, Plotly
 - **Visualization Tools:** Tableau, Power BI
-- **Cloud Platforms:** AWS, IBM Cloud
-- **Other Tools:** Excel, MySQL
+- **Cloud Platforms:** AWS,
+- **Other Tools:** Excel, PostgreSQL
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
