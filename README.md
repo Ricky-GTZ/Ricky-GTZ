@@ -49,17 +49,17 @@
 ---
 
 ### 📊 Projects
-1. **Name**  
-   - **Tools Used:** 
-   - **Summary:** 
+1. **Name**  Identificación de Operadores Ineficientes para compañía telefónica
+   - **Tools Used:** Python, Tableau).
+   - **Summary:** Este proyecto tuvo como propósito identificar a los operadores que no cumplían con ciertas características para una empresa telefónica. Identifique un porcentaje de 13% operadores poco eficientes y 0.27 % ineficientes
    
-2. **Name**  
-   - **Tools Used:** Tableau, SQL  
-   - **Summary:**
+2. **Name**  Predicción de la probabilidad de pérdida de clientes para un gimnasio 
+   - **Tools Used:** Python ( Pandas, Seaborn, sklearn).  
+   - **Summary:** Se analizaron distintos grupos de clientes para identificar cuáles son las características por las cuales pueden dejar de ser miembros de un gimnasio.
 
-3. **Name**  
-   - **Tools Used:** Data Cleaning and Visualization (Python, Tableau)  
-   - **Summary:**
+3. **Name**  Análisis de tendencias de tipos de video por país 
+   - **Tools Used:** Tableau. 
+   - **Summary:** Se analizaron las tendencias de videos que suelen verse en algunos países. 
 
 ---
 
